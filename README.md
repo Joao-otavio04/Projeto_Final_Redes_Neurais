@@ -81,3 +81,11 @@ Dessa forma, com base nos gráficos de curva de aprendizado e através de análi
 [2] [Conjunto de dados sintéticos de previsão de rendimento agrícola - "Synthetic Agricultural Yield Prediction Dataset"](https://www.kaggle.com/datasets/blueloki/synthetic-agricultural-yield-prediction-dataset/data)
 
 [3] [Trajetoria da agricultura Brasileira](https://www.embrapa.br/visao/trajetoria-da-agricultura-brasileira)
+
+[4] LOOMIS, C. Using Optuna to Optimize PyTorch Lightning Hyperparameters. Disponível em: <https://medium.com/optuna/using-optuna-to-optimize-pytorch-lightning-hyperparameters-d9e04a481585>.
+
+[5] optuna-examples/pytorch/pytorch_lightning_simple.py at main · optuna/optuna-examples. Disponível em: <https://github.com/optuna/optuna-examples/blob/main/pytorch/pytorch_lightning_simple.py#L161>.
+
+[6] optuna.create_study — Optuna 3.6.1 documentation. Disponível em: <https://optuna.readthedocs.io/en/stable/reference/generated/optuna.create_study.html>.
+
+[7] optuna.trial.Trial — Optuna 3.6.1 documentation. Disponível em: <https://optuna.readthedocs.io/en/stable/reference/generated/optuna.trial.Trial.html>.
