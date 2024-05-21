@@ -1,14 +1,20 @@
-# Previsão de rendimento agrícola por Redes Neurais 
-Grupo: Emelyn Alves, João O. de A. Nascimento, Kayllany L. da S. Oliveira
-Instituição: Ilum - Escola de Ciência 
-Professor: Daniel R. Cassar
+# Previsão de rendimento agrícola por redes neurais tipo MLP
+*Grupo:* Emelyn Alves, João O. de A. Nascimento, Kayllany L. da S. Oliveira
+<br>
+*Instituição:* Ilum - Escola de Ciência 
+<br>
+*Professor:* Daniel R. Cassar
+<br>
+*Disciplina:* Redes Neurais e Algoritmos Genéticos
 
-Esse é projeto final da disciplina de Redes Neurais. Obejtivo: Prever o rendimento agrícola por meio de uma rede neural do tipo MLP (*Multilayer Perceptron*). 
+## Apresentação 
+Como primeiro projeto final da disciplina propusemos a utilização de redes neurais (RN) tipo MLP (*Multilayer Perceptron*) para previsão do maior rendimento agrícola, a partir da análise de regressão linear com dados sintéticos.
 
-# Considerações sobre rendimento agrícola:
+## Importância
+A utilização de um modelo que possa prever o rendimento agrícola a partir das condições do plantio pode ser uma ferramenta para implementação de uma agricultura mais sustentável e eficiente.  
+
+## Breves considerações sobre rendimento agrícola:
 A agricultura é uma atividade econômica do setor primário de alta relevância mundial, sobretudo para países produtores e exportadores mundiais de alimentos, como o Brasil. Dentre os desafios enfrentados pela agricultura, está o rendimento agrícola. Este pode ser definido como: "uma medida da quantidade de uma cultura cultivada [...] por unidade de área de terra."  e sua unidade é: [kg/hec] (quilos por hectare de terra). [1]
-
-Desde sempre, busca-se aumentar o rendimento das lavouras. 
 
 O rendimento agrícola está relacionado à outras métricas: produtividade e eficiência. De modo geral, quanto maior o rendimento, maior a produtividade e consequentemente maior é a eficiência.
 
