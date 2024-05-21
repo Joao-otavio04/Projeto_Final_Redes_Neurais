@@ -74,6 +74,8 @@ Desde sempre busca-se aumentar cada vez mais o rendimento agrícola. E atualment
 Após treino e teste podemos perceber que houve uma melhoria significativa no RMSE do primeiro modelo de teste para o real, que foi otimizado. O RMSE era de 199 kg/hec e diminuiu para 76 kg/hec, uma taxa de dimuição de erro de aproximadamente 62%. 
 Dessa forma, com base nos gráficos de curva de aprendizado e através de análises de porcentagem, o modelo pode prever redimentos de plantação com uma taxa de erro baixa. 
 
+Embora a rede tenha sido treinada com dados sintéticos, devido à diferença relativamente grande entre os valores de rendimento, pode-se considerar uma boa rede. Vale ressaltar que a rede poderia ser treinada com dados reais, sendo possível melhorar ainda mais o RMSE da rede.
+
 
 ## Referências: 
 [1] [Rendimento agrícola](https://pt.wikipedia.org/wiki/Rendimento_agr%C3%ADcola#:~:text=Na%20agricultura%2C%20o%20rendimento%20%C3%A9,maneira%20de%20calcular%20os%20rendimentos.)
