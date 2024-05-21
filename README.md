@@ -55,14 +55,14 @@ Todos se encontram no main branch do repositório.
 * Python configurado para importar bibliotecas, módulos, etc;
 
 ## Bibliotecas/Módulos e suas funções (no projeto)
-* pandas - importar e tratar dados
-* matplotlib - plotar gráficos e matriz de correlação
-* seaborn - editar matriz de correlação
-* torch - otimização, conversão de dados em tensores, 
-* pytorch - treinar a rede neural
-* sklearn - RMSE, normalização e split de dados
-* optuna - otimização
-* lightning - otimização
+* `pandas` - importar e tratar dados
+* `random` - aleatorizar números de neurônios nas camadas da MLP teste
+* `matplotlib` - plotar gráficos (curvas de aprendizado) e matriz de correlação
+* `seaborn` - fazer mapa de calor da matriz de correlação
+* `torch` - conversão de dados em tensores 
+* `pytorch lightning` - criar e treinar a rede neural
+* `sklearn` - calcular RMSE, normalização e realizar split de dados
+* `optuna` - otimização
 
 ## Brevíssimas considerações sobre rendimento agrícola
 A agricultura é uma atividade econômica do setor primário de alta relevância mundial, sobretudo para países produtores e exportadores mundiais de alimentos, como o Brasil. Dentre os desafios enfrentados pela agricultura, está o rendimento agrícola. Este pode ser definido como: "uma medida da quantidade de uma cultura cultivada [...] por unidade de área de terra."  e sua unidade é: [kg/hec] (quilos por hectare de terra). [1][3]
