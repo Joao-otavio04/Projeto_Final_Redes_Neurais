@@ -71,7 +71,7 @@ Desde sempre busca-se aumentar cada vez mais o rendimento agrícola. E atualment
 
 ## Conclusão
 
-Após treino e teste podemos perceber que houve uma melhoria significativa no RMSE do primeiro modelo de teste para o real, que foi otimizado. O RMSE era de 200 kg/hec e diminuiu para 80 kg/hec, uma taxa de dimuição de erro de 60%. 
+Após treino e teste podemos perceber que houve uma melhoria significativa no RMSE do primeiro modelo de teste para o real, que foi otimizado. O RMSE era de 199 kg/hec e diminuiu para 100 kg/hec, uma taxa de dimuição de erro de aproximadamente 50%. 
 Dessa forma, com base nos gráficos de curva de aprendizado e através de análises de porcentagem, o modelo pode prever redimentos de plantação com uma taxa de erro baixa. 
 
 
