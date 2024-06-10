@@ -46,7 +46,7 @@ O download do dataset pode ser feito pelo:
 2. Baixe o arquivo `.ipynb`
 Todos se encontram no main branch do repositório.
 3. Mantenha todos os arquivos no mesmo ambiente.
-4. Execute o cógido no JupyterLab.
+4. Execute o código no JupyterLab.
 
 ## Requisitos 
 * Python instalado
@@ -71,8 +71,8 @@ Desde sempre busca-se aumentar cada vez mais o rendimento agrícola. E atualment
 
 ## Conclusão
 
-Após treino e teste podemos perceber que houve uma melhoria significativa no RMSE do primeiro modelo de teste para o real, que foi otimizado. O RMSE era de 199 kg/hec e diminuiu para 76 kg/hec, uma taxa de dimuição de erro de aproximadamente 62%. 
-Dessa forma, com base nos gráficos de curva de aprendizado e através de análises de porcentagem, o modelo pode prever redimentos de plantação com uma taxa de erro baixa. 
+Após treino e teste podemos perceber que houve uma melhoria significativa no RMSE do primeiro modelo de teste para o real, que foi otimizado. O RMSE era de 199 kg/hec e diminuiu para 76 kg/hec, uma taxa de diminuição de erro de aproximadamente 62%. 
+Dessa forma, com base nos gráficos de curva de aprendizado e através de análises de porcentagem, o modelo pode prever rendimentos de plantação com uma taxa de erro baixa. 
 
 Embora a rede tenha sido treinada com dados sintéticos, devido à diferença relativamente grande entre os valores de rendimento, pode-se considerar uma boa rede. Vale ressaltar que a rede poderia ser treinada com dados reais, sendo possível melhorar ainda mais o RMSE da rede.
 
@@ -82,7 +82,7 @@ Embora a rede tenha sido treinada com dados sintéticos, devido à diferença re
 
 [2] [Conjunto de dados sintéticos de previsão de rendimento agrícola - "Synthetic Agricultural Yield Prediction Dataset"](https://www.kaggle.com/datasets/blueloki/synthetic-agricultural-yield-prediction-dataset/data)
 
-[3] [Trajetoria da agricultura Brasileira](https://www.embrapa.br/visao/trajetoria-da-agricultura-brasileira)
+[3] [Trajetória da agricultura Brasileira](https://www.embrapa.br/visao/trajetoria-da-agricultura-brasileira)
 
 [4] LOOMIS, C. Using Optuna to Optimize PyTorch Lightning Hyperparameters. Disponível em: <https://medium.com/optuna/using-optuna-to-optimize-pytorch-lightning-hyperparameters-d9e04a481585>.
 
