@@ -18,7 +18,7 @@ O conjunto de dados escolhido [Synthetic Agricultural Yield Prediction Dataset](
 
 1. Dados sintéticos, ou seja, não reais.
 2. Conjunto com split treino-teste aplicado:
-   * `agricultural_yield_train.csv` (treino; 16000 linhas x 7 solunas) - arquivo `.csv` com dados de treino. 
+   * `agricultural_yield_train.csv` (treino; 16000 linhas x 7 colunas) - arquivo `.csv` com dados de treino. 
    * `agricultural_yield_test.csv`(teste; 4000 linhas x 7 colunas). - arquivo `.csv` com dados de teste. 
 3. 7 atributos:
    * `Soil_Quality` - Índice de qualidade do solo, variando de 50 a 100.
